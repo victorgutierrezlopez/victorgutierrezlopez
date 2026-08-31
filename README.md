@@ -12,13 +12,6 @@ My core strength lies in combining solid software architecture with a security-f
 
 ---
 
-## 🌐 CONTACT ME!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario-linkedin) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgutierrezlopez03@gmail.com)
-
----
-
 ## 💻 MY BACKGROUND
 
 ### 🚀 Languages & Frameworks
