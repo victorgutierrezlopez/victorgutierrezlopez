@@ -34,10 +34,6 @@ My core strength lies in combining solid software architecture with a security-f
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=victorgutierrezlopez&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=victorgutierrezlopez&theme=vue-dark&hide_border=false" />
-</p>
-
 ---
 
 <p align="center">
