@@ -12,7 +12,7 @@ My core strength lies in combining solid software architecture with a security-f
 
 ---
 
-## 💻 MY BACKGROUND
+## 💻 MY BACKGROUND!
 
 ### 🚀 Languages & Frameworks
 <br>
