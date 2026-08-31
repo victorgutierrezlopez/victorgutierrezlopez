@@ -30,12 +30,7 @@ My core strength lies in combining solid software architecture with a security-f
 **Tools & Environments**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=victorgutierrezlopez&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=victorgutierrezlopez&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </p>
 
